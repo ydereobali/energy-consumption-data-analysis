@@ -1,7 +1,7 @@
 ########################################################################
 # Title: Analysis and Visualisation of Energy Metering Data
 # Author: Yigit Dereobali
-# Title: ubiqum module 3 task 1 github
+# Name: ubiqum module 3 task 1 github
 # Description: Analyse energy metering data to develop business ideas
 # Date: 13.06.2019
 # Version: 1.3
